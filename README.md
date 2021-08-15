@@ -1,1 +1,1 @@
-# [Ejercicio base de datos Equipo 3] 
+# Ejercicio base de datos Equipo 3
