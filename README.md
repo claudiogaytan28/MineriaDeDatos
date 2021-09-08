@@ -9,4 +9,6 @@
 
 [Avance 1 de PIA Equipo 3](https://github.com/xthaliax/mineriaa/blob/main/Avance1_PIA_Equipo3.ipynb)
 
+## Fase 2
+
 [Presentacion de tecnica "Reglas de asociación" Equipo3](https://github.com/Ruy8/RuyAramis_Mineria/blob/main/Presentaci%C3%B3n_ReglasDeAsociaci%C3%B3n_Equipo3.pdf)
