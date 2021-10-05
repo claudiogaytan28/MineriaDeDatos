@@ -13,4 +13,6 @@
 
 [Presentacion de tecnica "Reglas de asociación" Equipo3](https://github.com/Ruy8/RuyAramis_Mineria/blob/main/Presentaci%C3%B3n_ReglasDeAsociaci%C3%B3n_Equipo3.pdf)
 
+[Practica visualizacion](https://github.com/xthaliax/mineriaa/blob/main/Visualizacion_Equipo3.ipynb)
+
 [Avance 2 de PIA Equipo3](https://github.com/claudiogaytan28/MineriaDeDatos/blob/main/Entrega2_Equipo3.ipynb)
