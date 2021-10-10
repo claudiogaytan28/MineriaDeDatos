@@ -16,3 +16,5 @@
 [Practica visualizacion](https://github.com/xthaliax/mineriaa/blob/main/Visualizacion_Equipo3.ipynb)
 
 [Avance 2 de PIA Equipo3](https://github.com/claudiogaytan28/MineriaDeDatos/blob/main/Entrega2_Equipo3.ipynb)
+
+[Modificacion Avance 2 de PIA Equipo3](https://github.com/claudiogaytan28/MineriaDeDatos/blob/main/Entrega2_Equipo3_Mod.ipynb)
