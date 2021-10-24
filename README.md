@@ -18,3 +18,9 @@
 [Avance 2 de PIA Equipo3](https://github.com/claudiogaytan28/MineriaDeDatos/blob/main/Entrega2_Equipo3.ipynb)
 
 [Modificacion Avance 2 de PIA Equipo3](https://github.com/claudiogaytan28/MineriaDeDatos/blob/main/Entrega2_Equipo3_Mod.ipynb)
+
+## Fase 3
+
+[Notebook PIA](https://github.com/xthaliax/mineriaa/blob/main/Notebook%20-%20equipo%203.ipynb)
+
+[Poster PIA](https://github.com/xthaliax/mineriaa/blob/main/P%C3%B3ster%20-%20Equipo%203.pdf)
