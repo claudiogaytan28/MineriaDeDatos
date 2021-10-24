@@ -21,6 +21,6 @@
 
 ## Fase 3
 
-[Notebook PIA](https://github.com/xthaliax/mineriaa/blob/main/Notebook%20-%20equipo%203.ipynb)
+[Notebook PIA Equipo 3](https://github.com/xthaliax/mineriaa/blob/main/Notebook%20-%20equipo%203.ipynb)
 
-[Poster PIA](https://github.com/xthaliax/mineriaa/blob/main/P%C3%B3ster%20-%20Equipo%203.pdf)
+[Poster PIA Equipo 3](https://github.com/xthaliax/mineriaa/blob/main/P%C3%B3ster%20-%20Equipo%203.pdf)
